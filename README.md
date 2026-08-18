@@ -1,4 +1,4 @@
-# Clase 4 — Currificación
+# Ejercicio 4 — Currificación
 
 Fundamentos de Programación Funcional y Concurrente
 Escuela de Ingeniería de Sistemas y Computación, Universidad del Valle
