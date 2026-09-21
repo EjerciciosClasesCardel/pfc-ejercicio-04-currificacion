@@ -48,7 +48,7 @@ resultados se combinan con `f`.
 | `f` | cómo se combinan dos resultados |
 | `g` | cómo se pasa de un término al siguiente |
 
-### Ejemplos
+#### Ejemplos
 
 ```scala
 opCurrified(3)(2)((x, y) => x + y)(x => x + 1)
