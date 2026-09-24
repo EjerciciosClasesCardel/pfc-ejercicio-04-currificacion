@@ -1,7 +1,7 @@
 package taller
 
 class Ejercicio() {
-
+  // prueba git
   // Punto 1. Recorre n términos: el primero es 1 y cada uno sale del
   // anterior aplicando g. Cada término se eleva a la p y se combina con f.
   // Tal como está devuelve siempre 0 y las pruebas quedan en rojo.
